@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flowers Software is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://flowers-software.de/
+Flowers Software automates finance and approval processes for the German Mittelstand, offering solutions for invoice approval, invoice capture, contract and document workflows, and integration with bookkeeping and ERP systems such as DATEV and SAP. The company provides a platform to streamline financial operations for small and medium-sized enterprises in Germany.
+
+**Areas:** Company · Finance · Automation · ERP · Germany
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flowers-software.de/)
+- [Pricing](https://www.flowers-software.de/en/prices)
+- [Support](https://www.flowers-software.de/en/contact)
+- [Blog](https://www.flowers-software.de/en/blog)
+- [Terms of service](https://www.flowers-software.de/de/agb)
+- [Privacy policy](https://www.flowers-software.de/de/datenschutz)
+- [GitHub](https://github.com/flowers-software)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/flowers-software/](https://apis.io/providers/flowers-software/).
